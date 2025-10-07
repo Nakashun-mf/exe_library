@@ -1,4 +1,5 @@
 # 画像リサイズアプリケーション（WinForms / .NET Framework 4.7.2）
+ファイル名：icad_icon.exe
 
 ## 機能
 
